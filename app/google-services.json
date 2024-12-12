@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075484308246",
+    "project_id": "auth-app-fb-dd007",
+    "storage_bucket": "auth-app-fb-dd007.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075484308246:android:5dc301e00a4def68981637",
+        "android_client_info": {
+          "package_name": "com.chalome.auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2TznizMCQ0hTHkHUQqEA6nvQsYT6zXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
